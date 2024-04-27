@@ -46,19 +46,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Davidfdez72">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Davidfdez72&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://i0.wp.com/algomasquetraducir.com/wp-content/uploads/2008/04/homer-informatica.gif"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ualdfq240/ualdfq240/output/snake.svg" alt="Snake animation" />
-
-###
