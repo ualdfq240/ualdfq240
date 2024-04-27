@@ -62,6 +62,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ualdfq240/ualdfq240/output/snake.svg" alt="Snake animation" />
-
-###
